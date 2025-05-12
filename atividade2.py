@@ -4,7 +4,7 @@ import requests
 # Tipos de lista de contatos
 clientes = []
 fornecedores = []
-print('Aaaaa')
+
 def buscar_cep():
     while True:
         cep = input("Digite o CEP para buscar: ")
